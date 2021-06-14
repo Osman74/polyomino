@@ -3,7 +3,7 @@
 опорных прямоуголных полиомино и опорных L-полиомино Pi с данными
 соответствующими мощностями Ni узнать, существует ли конфигурация полиомино с этими параметрами, являющееся замощением T.
 
-![image] (https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pentominos_square_8x8_016.svg/1200px-Pentominos_square_8x8_016.svg.png)
+![image1](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pentominos_square_8x8_016.svg/220px-Pentominos_square_8x8_016.svg.png)
 
 ### Алгоритм
 Использован алгоритм X, придуманный Д.Э. Кнутом, на основе Танцующих ссылок
